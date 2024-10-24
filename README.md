@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Aditya "Adiprabs" Prabakaran, a Computer Science student at <br>Imperial College London with a love for building software and exploring <br>new technologies. <br><br>Currently, I'm working on myCFO.ai and passing classes.<br>When I'm not coding, I enjoy experimenting with new tools and technologies <br>and connecting with other developers who share my interests. <br><br>Fun fact: I've been known to stay up late into the night solving complex problems, <br>but my favorite reward is a good cup of hot chocolate!
+Hello! I'm Aditya "Adiprabs" Prabakaran, a Computer Science student at Imperial College London with a love for building software and exploring new technologies. <br>Currently, I'm working on myCFO.ai and passing classes. <br>When I'm not coding, I enjoy experimenting with new tools and technologies <br>and connecting with other developers who share my interests. <br>Fun fact: I've been known to stay up late into the night solving complex problems, but my favorite reward is a good cup of hot chocolate!
 
 
 ## 🌐 Socials:
