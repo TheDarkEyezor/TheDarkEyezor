@@ -1,24 +1,65 @@
-# 💫 About Me:
-Hello! I'm Aditya "Adiprabs" Prabakaran, a Computer Science student at Imperial College London with a love for building software and exploring new technologies. <br>Currently, I'm working on myCFO.ai and passing classes. <br>When I'm not coding, I enjoy experimenting with new tools and technologies <br>and connecting with other developers who share my interests. <br>Fun fact: I've been known to stay up late into the night solving complex problems, but my favorite reward is a good cup of hot chocolate!
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adiprabs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adiprabs) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=flat&logo=haskell&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TheDarkEyezor&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheDarkEyezor&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkEyezor&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=TheDarkEyezor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=TheDarkEyezor&limit=5&theme=dark&combine_all_yearly_contributions=true)
+# 💫 About Me  
+Hello! I’m **Adi­tya “AdiPrabs” Prabakaran** — a Computing MEng (AI & ML) student at Imperial College London (graduating 2027, on track for a First-Class GPA). I’m also Founder & CEO of VaNI MedTech Ltd, a startup building workflow automation for hospitals and doctors.  
+When I’m not coding I’m experimenting with new tools, building side-projects (e.g., AI assistants), or solving trading/quant problems deep into the night, powered by strong hot chocolate.
 
 ---
+
+## 🎯 Mission  
+Create software that improves millions of lives — whatever it takes.
+
+---
+
+## 🧰 Tech Stack  
+C · C++ · Java · Kotlin · Python · Rust · TypeScript · Haskell · Scala ·  
+React (Next.js · React Native) · AWS · Azure · GCP · Docker · Kubernetes · Git  
+
+---
+
+## 🚀 Current & Key Projects  
+### **DOSA** (ongoing)  
+A personal AI assistant I’m building to automate my workflows (coding, scheduling, trading, personal tasks).  
+**Role**: Sole architect & builder (full-stack, AI/ML components).  
+**Stack**: TS/React frontend, Python backend, Docker/K8s, LLMs.  
+**Status**: Active.
+
+### **VaNI MedTech** – VaNI MedTech Ltd (ongoing)  
+Automating hospital & clinical admin using voice-assisted transcription, multilingual support and workflow AI. Founder & CEO.  
+Stack: Next.js, FastAPI, Redis, Llama-based local LLM setup, AWS/GCP.  
+Status: Active. :contentReference[oaicite:4]{index=4}
+
+### Member of the principal trading team at Cauchy Capital 
+Developing algorithms for quant trading research and bot development.
+
+### Archived / Legacy Roles  
+- Full-stack developer at Trajex — built web apps, API services.  
+- ML engineer at Altus Reach — developed ML pipelines for healthcare/fintech.  
+
+---
+
+## 🏆 Achievements & Highlights  
+- 1st place winner at the QRT Coding Challenge, Imperial.  
+- Regional #1 in judged award & entrepreneurship challenge at the FIRST Robotics Competition (FRC).  
+- Founded a regulated healthcare startup while still a student.
+
+---
+
+## 📋 Connect & Collaborate  
+I’m always open to collaborating on high-impact software, AI, fintech and healthcare-tech projects.  
+👉 Visit my website: [your-website.com](https://your-website.com)  
+👉 Or connect with me on [LinkedIn](https://linkedin.com/in/adiprabs) / [Instagram](https://instagram.com/adiprabs)
+
+---
+
+## 📈 GitHub Stats  
+![](https://github-readme-stats.vercel.app/api?username=TheDarkEyezor&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>  
+![](https://github-readme-streak-stats.herokuapp.com/?user=TheDarkEyezor&theme=gruvbox&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDarkEyezor&theme=gruvbox&hide_border=false&count_private=true&layout=compact)
+
+## 🏅 GitHub Trophies  
+![](https://github-profile-trophy.vercel.app/?username=TheDarkEyezor&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 [![](https://visitcount.itsvg.in/api?id=TheDarkEyezor&icon=0&color=2)](https://visitcount.itsvg.in)
+
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
