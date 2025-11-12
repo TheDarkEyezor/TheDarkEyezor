@@ -25,7 +25,7 @@ A personal AI assistant I’m building to automate my workflows (coding, schedul
 ### **VaNI MedTech** – VaNI MedTech Ltd (ongoing)  
 Automating hospital & clinical admin using voice-assisted transcription, multilingual support and workflow AI. Founder & CEO.  
 Stack: Next.js, FastAPI, Redis, Llama-based local LLM setup, AWS/GCP.  
-Status: Active. :contentReference[oaicite:4]{index=4}
+Status: Active.
 
 ### Member of the principal trading team at Cauchy Capital 
 Developing algorithms for quant trading research and bot development.
