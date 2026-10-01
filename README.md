@@ -16,7 +16,7 @@ React (Next.js · React Native) · AWS · Azure · GCP · Docker · Kubernetes �
 ---
 
 ## 🚀 Current & Key Projects  
-### **DOSA** (ongoing)  
+### **DOSHA** (ongoing)  
 A personal AI assistant I’m building to automate my workflows (coding, scheduling, trading, personal tasks).  
 **Role**: Sole architect & builder (full-stack, AI/ML components).  
 **Stack**: TS/React frontend, Python backend, Docker/K8s, LLMs.  
